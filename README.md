@@ -4,7 +4,7 @@ Simple chat app enables you creating rooms with your teammates or friends, you a
 
 
 
-### Description 
+### Tech stack 
 
 - HTML
 
